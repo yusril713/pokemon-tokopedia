@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.imgPokemon {
+  width: 9vw;
+}
+
+.imgPokemon:hover {
+  width: 10vw;
+}
